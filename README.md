@@ -2,7 +2,7 @@
 
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
-I want to work on ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 ## Skills and Experience
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
