@@ -15,6 +15,7 @@
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-00BFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 ## Examples of Work
 
