@@ -2,6 +2,8 @@
 
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
+I want to work on ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+
 ## Skills and Experience
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -15,7 +17,7 @@
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-00BFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+
 
 ## Examples of Work
 
