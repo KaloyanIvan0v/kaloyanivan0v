@@ -30,7 +30,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
   
 <h2> PollyAdventure </h2>
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/pollys-adventure.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
+    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/polly.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
   </a>
 <h3>Tech Stack</h3>
   | JavaScript | HTML | CSS | Object-oriented programming (OOP)
