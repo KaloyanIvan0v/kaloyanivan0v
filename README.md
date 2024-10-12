@@ -11,7 +11,6 @@
 I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 
-## Skills and experience
 <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="80px" style="border-radius:40px;" />
 
 
@@ -30,7 +29,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Example of work
-<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/Examples-of-work.png?raw=true" width="auto" height="28px" style="border-radius:40px;" />
+<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/examples-of-work.png?raw=true" width="auto" height="80px" style="border-radius:40px;" />
 
 
 
