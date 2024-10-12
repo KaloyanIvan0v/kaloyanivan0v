@@ -1,4 +1,4 @@
- <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/readMe.png?raw=true" width="auto" height="300" />
+ <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/readMe.png?raw=true" width="100%" height="auto" />
 
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
