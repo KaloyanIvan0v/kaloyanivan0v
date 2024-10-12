@@ -23,19 +23,10 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
   <h2> Join </h2>
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;" />
+    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="500" height="300" style="border-radius:40px;" />
   </a>
 <h3>Tech Stack</h3>
   | JavaScript | HTML | CSS | Firebase |
   
 
 
-  <h2> Pollys Adventure </h2>
-<a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;" />
-  </a>
-
-   <h2> DaBubble </h2>
-<a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;" />
-  </a>
