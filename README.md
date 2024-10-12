@@ -4,6 +4,14 @@
 
 👀 Take a look at my last examples of work. 
 
+
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+
+
 I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 ## Skills and experience
@@ -21,7 +29,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
 
 
-! Examples of work 
+## Examples of work 
 
 
   <h2> Join  </h2>
