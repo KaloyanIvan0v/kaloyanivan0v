@@ -14,7 +14,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 <br>
 
 
-<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="80px" style="border-radius:40px; cursor-pointer:none;" />
+<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="80px"  />
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
