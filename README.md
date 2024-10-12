@@ -20,4 +20,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Examples of Work
-<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif" width="250px" height="100px"/>
+<div>
+  <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif" width="250px" height="100px" border-radius="20px"/>
+</div>
+
