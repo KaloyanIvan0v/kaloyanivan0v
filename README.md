@@ -5,14 +5,10 @@
 👀 Take a look at my last examples of work. 
 
 
-
-
-
 I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 
 <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="80px" style="border-radius:40px;" />
-
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,17 +23,14 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ![Artificial Intelligence](https://img.shields.io/badge/AI-00BFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
 
-
-
-
-
-
+<h1></h1>
+<h1></h1>
+<h1></h1>
 
 <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/examples-of-work.png?raw=true" width="auto" height="80px" style="border-radius:40px;" />
 
 
-
-  <h1> <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/code.png?raw=true" width="auto" height="28px" style="border-radius:40px;" /> Join </h2> 
+ <h1> <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/code.png?raw=true" width="auto" height="28px" style="border-radius:40px;" /> Join </h2> 
   <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/join.git" target="_blank">GitHub </a> |</h4>
 <a href="https://join.kaloyanivanov.de/" target="_blank">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gip.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
