@@ -10,7 +10,9 @@
 
 I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
-## Skills and experience
+
+# $\textsf{\color{#0CFBFB}{Skills and experience}}$ 
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
