@@ -22,6 +22,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Examples of work
+<span style="color: green"> Some green text </span>
 
   <h2> Join  </h2>
   <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/join.git" target="_blank">GitHub </a> |</h4>
