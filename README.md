@@ -23,6 +23,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
   
 <div style="gap:24px;">
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
+  <h1>Join</h1>
   <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
 </a>
 
