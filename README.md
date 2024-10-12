@@ -23,7 +23,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
   <h2> Join  </h2>
   <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/join.git" target="_blank">GitHub </a> |</h4>
-<a href="https://join.kaloyanivanov.de/">
+<a href="https://join.kaloyanivanov.de/" target="_blank">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
   </a>
 <h3>Tech Stack</h3>
@@ -31,7 +31,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
   
 <h2> PollyAdventure </h2>
  <h4>| <a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/pollys-adventure.git" target="_blank">GitHub </a> |</h4>
-<a href="https://pollys-adventure.kaloyanivanov.de/">
+<a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/polly.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
   </a>
 <h3>Tech Stack</h3>
