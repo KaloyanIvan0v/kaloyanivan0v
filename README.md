@@ -11,7 +11,7 @@
 I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 
-# $\textsf{\color{#0CFBFB}{Skills and experience}}$ 
+## Skills and experience
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,7 +27,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
 
 
-# $\textsf{\color{#0CFBFB}{Example of work}}$ 
+## Example of work
 
 
   <h2> Join  </h2>
