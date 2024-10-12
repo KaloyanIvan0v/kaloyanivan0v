@@ -25,8 +25,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
 
 
-## $\text{\color{#f5750e}{Examples of work}}$ 
-## ![](https://img.shields.io/static/v1?label=&message=work&color=green)
+# $\textsf{\color{#f5750e}{Introduction}}$ 
 
 
   <h2> Join  </h2>
