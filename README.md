@@ -1,6 +1,5 @@
 
-<iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="80" height="80" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
- 
+
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
 👀 Take a look at my last examples of work. 
