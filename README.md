@@ -25,6 +25,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
   <div style="border-right: 3px solid red; display: flex; flex-direction: row; align-items: center; width: 300px;">
     <h1>Join</h1>
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="150px"/>
+    das ist das projekt 
   </div>
 
   <!-- Projekt 2 -->
