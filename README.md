@@ -20,7 +20,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Examples of Work
-<div style="display: flex; flex-wrap: wrap; gap: 24px; flex-direction: row;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; flex-direction: column;">
   <!-- Projekt 1 -->
   <div style="border-right: 3px solid gray; display: flex; flex-direction: column; align-items: center; width: 300px;">
     <h1>Join</h1>
