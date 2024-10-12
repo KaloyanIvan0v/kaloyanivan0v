@@ -1,4 +1,6 @@
-<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/greeting.gif?raw=true" width="auto" height="60" style="border-radius:40px;" />
+| |/ /___ | |_ | || | ___ _ |_ | __ __ _ _ __ __ | | ___ _ __ | ' // _ | | | | ' / _ \ () | || ' \ / | '__/ _ | / _ | '| | . \ () | | | || || / _ | || | | | (| | | | (| | || () | |
+||__/ _| _|_| _| () ||| ||_,|| _,|__/|_|
+
  
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
