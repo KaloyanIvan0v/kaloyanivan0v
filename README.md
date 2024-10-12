@@ -1,5 +1,5 @@
-## Kaloyan Ivanov 
-
+ <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gip.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
+ 
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
 I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
