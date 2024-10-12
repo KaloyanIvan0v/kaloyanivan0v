@@ -22,7 +22,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ## Examples of Work
 <div style="display: flex; flex-direction: row;">
   <!-- Projekt 1 -->
-  <div style=" display: flex; flex-direction: row; align-items: center;">
+  <div style=" display: flex; flex-direction: column; align-items: center;">
     <h1>Join</h1>
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="150px" border-radius="40px"/>
     das ist das projekt 
