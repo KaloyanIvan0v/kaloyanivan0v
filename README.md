@@ -21,8 +21,8 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 ## Examples of Work
 
-  <h2> Join <a href="https://join.kaloyanivanov.de/">Live test</a> </h2>
-  <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://join.kaloyanivanov.de/" target="_blank">GitHub</a></h4>
+  <h2> Join  </h2>
+  <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://join.kaloyanivanov.de/" target="_blank">GitHub |</a></h4>
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
   </a>
@@ -30,6 +30,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
   | JavaScript | HTML | CSS | Firebase |
   
 <h2> PollyAdventure </h2>
+ <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://join.kaloyanivanov.de/" target="_blank">GitHub |</a></h4>
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/polly.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
   </a>
