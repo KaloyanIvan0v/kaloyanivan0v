@@ -26,6 +26,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## $\text{\color{#f5750e}{Examples of work}}$ 
+## ![](https://img.shields.io/static/v1?label=&message=Examples of work&color=green)
 
 
   <h2> Join  </h2>
