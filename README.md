@@ -38,7 +38,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 <h3>Tech stack</h3>
   | JavaScript | HTML | CSS | Firebase |
   
-<h2> Pollys Adventure </h2>
+  <h1> <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/code.png?raw=true" width="auto" height="28px" style="border-radius:40px;" /> Pollys Adventure </h2> 
  <h4>| <a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/pollys-adventure.git" target="_blank">GitHub </a> |</h4>
 <a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/polly.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
