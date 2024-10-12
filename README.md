@@ -1,6 +1,4 @@
- <div style="display: inline-block; overflow: hidden; white-space: nowrap; border-right: 2px solid; font-family: monospace; font-size: 24px; width: 0; animation: typing 4s steps(40, end) forwards, blink-caret 0.75s step-end infinite;">
-  Hallo, das ist ein animierter Text!
-</div>
+
  
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
