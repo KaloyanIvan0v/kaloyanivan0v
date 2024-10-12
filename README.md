@@ -21,4 +21,4 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 ## Examples of Work
 
-![Alt Text](https://github.com/kaloyanivan0v/kaloyanivan0v/main/join-gif.gif)
+![Alt Text](https://github.com/your-username/your-repo-name/blob/main/path-to-your-gif.gif)
