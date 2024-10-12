@@ -28,7 +28,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
 
 
-## Example of work
+
 <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/examples-of-work.png?raw=true" width="auto" height="80px" style="border-radius:40px;" />
 
 
