@@ -30,7 +30,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ## Example of work
 
 
-  <h2> <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/code.png?raw=true" width="auto" height="40" style="border-radius:40px;" /> Join </h2> 
+  <h1> <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/code.png?raw=true" width="auto" height="40" style="border-radius:40px;" /> Join </h2> 
   <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/join.git" target="_blank">GitHub </a> |</h4>
 <a href="https://join.kaloyanivanov.de/" target="_blank">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gip.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
