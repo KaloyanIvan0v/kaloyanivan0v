@@ -21,7 +21,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
 
 
-## Examples of Work
+## Examples of work
 
   <h2> Join  </h2>
   <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/join.git" target="_blank">GitHub </a> |</h4>
