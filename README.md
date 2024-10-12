@@ -22,16 +22,16 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ## Examples of Work
   
 <div style="gap:24px;">
+  Join
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
- <div> Join</div>
   <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
 </a>
-
+Pollys Adventure
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
-   <div>Pollys Adventure</div>
+
   <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
 </a>
-
+DaBubble
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
   <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
 </a>
