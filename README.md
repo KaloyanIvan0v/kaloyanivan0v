@@ -12,6 +12,8 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Skills and experience
+<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="28px" style="border-radius:40px;" />
+
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,6 +30,8 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Example of work
+<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/Examples-of-work.png?raw=true" width="auto" height="28px" style="border-radius:40px;" />
+
 
 
   <h1> <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/code.png?raw=true" width="auto" height="28px" style="border-radius:40px;" /> Join </h2> 
