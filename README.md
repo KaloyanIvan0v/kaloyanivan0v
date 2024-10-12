@@ -20,7 +20,22 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Examples of Work
-<div border-radius="50px">
-  <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif" width="250px" height="100px"/>
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 24px;">
+  <!-- Projekt 1 -->
+  <div style="border-right: 3px solid gray; border-radius: 50px; overflow: hidden; padding: 16px;">
+    <h1>Projekt 1</h1>
+    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="100px"/>
+  </div>
 
+  <!-- Projekt 2 -->
+  <div style="border-right: 3px solid gray; border-radius: 50px; overflow: hidden; padding: 16px;">
+    <h1>Projekt 2</h1>
+    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="100px"/>
+  </div>
+
+  <!-- Projekt 3 -->
+  <div style="border-right: 3px solid gray; border-radius: 50px; overflow: hidden; padding: 16px;">
+    <h1>Projekt 3</h1>
+    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="100px"/>
+  </div>
+</div>
