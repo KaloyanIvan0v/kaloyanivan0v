@@ -21,15 +21,16 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 ## Examples of Work
   
+<div style="gap:24px;">
+<a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
+  <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
+</a>
 
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
   <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
 </a>
 
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
-  <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="100" style="border-radius:40px;"/>
+  <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
 </a>
-
-<a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
-  <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="100" style="border-radius:40px;"/>
-</a>
+</div>
