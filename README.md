@@ -27,14 +27,14 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
  
 
  
-  <div style="border-right: 3px solid gray;  display: flex; flex-direction: column; align-items: center; width: 300px;">
-    <h1>Pollys Adventure</h1>
+ 
+   <h1>Pollys Adventure</h1>
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="100px"/>
-  </div>
 
 
-  <div style="border-right: 3px solid gray;   display: flex; flex-direction: column; align-items: center; width: 300px;">
-    <h1>DaBubble</h1>
+
+
+  <h1>DaBubble</h1>
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="100px"/>
-  </div>
+  
 
