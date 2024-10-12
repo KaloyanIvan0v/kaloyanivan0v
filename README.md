@@ -7,6 +7,12 @@
 
 I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="80px" style="border-radius:40px;" />
 
@@ -23,6 +29,8 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 ![Artificial Intelligence](https://img.shields.io/badge/AI-00BFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
 
+<br>
+<br>
 <br>
 <br>
 <br>
