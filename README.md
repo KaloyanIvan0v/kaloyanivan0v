@@ -29,13 +29,16 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 </a>
 </div>
  
-Pollys Adventure
-<a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
-
-  <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
-</a>
-DaBubble
+<div  style="display:flex; flex-direction:column">
+   Join
 <a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
   <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
 </a>
+</div>
+<div  style="display:flex; flex-direction:column">
+   Join
+<a href="https://github.com/KaloyanIvan0v/kaloyanivan0v">
+  <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250" height="150" style="border-radius:40px;"/>
+</a>
+</div>
 </div>
