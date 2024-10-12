@@ -12,7 +12,7 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Skills and experience
-<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="28px" style="border-radius:40px;" />
+<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="80px" style="border-radius:40px;" />
 
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
