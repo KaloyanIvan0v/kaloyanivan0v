@@ -6,7 +6,7 @@
 
 I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
-## Skills and Experience
+## Skills and experience
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,14 +28,14 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 <a href="https://join.kaloyanivanov.de/" target="_blank">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gip.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
   </a>
-<h3>Tech Stack</h3>
+<h3>Tech stack</h3>
   | JavaScript | HTML | CSS | Firebase |
   
-<h2> PollyAdventure </h2>
+<h2> Pollys Adventure </h2>
  <h4>| <a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/pollys-adventure.git" target="_blank">GitHub </a> |</h4>
 <a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">
     <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/polly.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
   </a>
-<h3>Tech Stack</h3>
+<h3>Tech stack</h3>
   | JavaScript | HTML | CSS | Object-oriented programming (OOP)
 
