@@ -20,21 +20,5 @@ I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3
 
 
 ## Examples of Work
-
-  <h1>Join</h1>
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="150px" border-radius="40px"/>
-    das ist das projekt 
- 
-
- 
- 
-   <h1>Pollys Adventure</h1>
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="100px"/>
-
-
-
-
-  <h1>DaBubble</h1>
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gif.gif?raw=true" width="250px" height="100px"/>
   
 
