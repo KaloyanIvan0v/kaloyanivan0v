@@ -1,4 +1,4 @@
-<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/greeting.gif?raw=true" width="auto" height="40" style="border-radius:40px;" />
+<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/greeting.gif?raw=true" width="auto" height="80" style="border-radius:40px;" />
  
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
