@@ -1,4 +1,4 @@
- <img width="1280" height="320" alt="readMe" src="https://github.com/user-attachments/assets/e28fd970-7e06-40b8-b4da-70dce4439c90" />
+ <img width="1280" height="320" alt="readMe" src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/read_me_banner.png" />
 
 ✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
 
