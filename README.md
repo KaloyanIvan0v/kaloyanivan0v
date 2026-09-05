@@ -50,10 +50,9 @@
 <p align="center">a freelancer platform build with Django</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-161D2E?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-161D2E?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-161D2E?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-161D2E?style=flat-square&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-161D2E?style=for-the-badge&logo=django&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-161D2E?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Rest--Api-161D2E?style=for-the-badge" />
 </p>
 
 <p align="center"><a href="https://coderr.kaloyanivanov.de/" target="_blank">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/KaloyanIvan0v/coderr-backend.git" target="_blank">Code</a></p>
