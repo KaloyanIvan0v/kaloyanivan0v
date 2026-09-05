@@ -1,56 +1,86 @@
- <img width="1280" height="320" alt="readMe" src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/read_me_banner.png" />
+<br>
 
-✋🏽 Hi, I'm a frontend developer, always striving to evolve and make our world a better place with software. 
+<h3 align="center">Kaloyan Ivanov</h3>
 
-👀 Take a look at my last examples of work. 
+<p align="center">Fullstack Web Developer — always striving to evolve and make our world a better place with software.</p>
 
+<p align="center">
+  <a href="https://opensource.org/" target="_blank"><img src="https://img.shields.io/badge/Open%20Source-8D4CF6?style=for-the-badge&logo=open-source-initiative&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20collaborate-8FE34B?style=for-the-badge&labelColor=8FE34B" />
+</p>
 
-I want to work on -> ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+<br>
+<br>
 
+<h3 align="center">🟣 Skills</h3>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-161D2E?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-161D2E?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-161D2E?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-161D2E?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/Angular-161D2E?style=for-the-badge&logo=angular&logoColor=white" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-161D2E?style=for-the-badge&logo=django&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-161D2E?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-161D2E?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-161D2E?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank"><img src="https://img.shields.io/badge/Rest--Api-161D2E?style=for-the-badge" /></a>
+  <a href="https://www.scrumalliance.org/" target="_blank"><img src="https://img.shields.io/badge/Scrum-161D2E?style=for-the-badge&logo=scrumalliance&logoColor=white" /></a>
+  <a href="https://m3.material.io/" target="_blank"><img src="https://img.shields.io/badge/Material%20Design-161D2E?style=for-the-badge&logo=materialdesign&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Continually%20Learning-8D4CF6?style=for-the-badge" />
+</p>
+
+<br>
+<br>
+
+<h3 align="center">🟢 Examples of work</h3>
+
+<br>
+
+<p align="center"><b>Coderr</b></p>
+
+<p align="center"><a href="https://coderr.kaloyanivanov.de/" target="_blank"><img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/test/coderr.gif?raw=true" /></a></p>
+
+<p align="center">a freelancer backend platform build with Django</p>
+
+<p align="center">
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-161D2E?style=for-the-badge&logo=django&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-161D2E?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank"><img src="https://img.shields.io/badge/Rest--Api-161D2E?style=for-the-badge" /></a>
+</p>
+
+<p align="center"><a href="https://coderr.kaloyanivanov.de/" target="_blank">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/KaloyanIvan0v/coderr-backend.git" target="_blank">Code</a></p>
 
 <br>
 <br>
 <br>
-<br>
 
+<p align="center"><b>Pollys Adventure</b></p>
 
-<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/experience.png?raw=true" width="auto" height="80px"  />
+<p align="center"><a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank"><img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/polly.gif?raw=true" width="600" /></a></p>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-00BFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![Continually Learning](https://img.shields.io/badge/Continually%20Learning-32CD32?style=for-the-badge&logo=learning&logoColor=white)
+<p align="center">2D jump-and-run game built with object-oriented JavaScript.</p>
 
+<p align="center">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-161D2E?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-161D2E?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-161D2E?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+</p>
+
+<p align="center"><a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/KaloyanIvan0v/pollys-adventure" target="_blank">Code</a></p>
 
 <br>
 <br>
-<br>
-<br>
 
-<img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/examples-of-work.png?raw=true" width="auto" height="80px" style="border-radius:40px;" />
+<h3 align="center">🟣 Get in touch</h3>
 
-
- <h1> <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/code.png?raw=true" width="auto" height="28px" style="border-radius:40px;" /> Join </h2> 
-  <h4>| <a href="https://join.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/join.git" target="_blank">GitHub </a> |</h4>
-<a href="https://join.kaloyanivanov.de/" target="_blank">
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gip.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
-  </a>
-<h3>Tech stack</h3>
-  | JavaScript | HTML | CSS | Firebase |
-  
-  <h1> <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/code.png?raw=true" width="auto" height="28px" style="border-radius:40px;" /> Pollys Adventure </h2> 
- <h4>| <a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">Live test</a> |  <a href="https://github.com/KaloyanIvan0v/pollys-adventure.git" target="_blank">GitHub </a> |</h4>
-<a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">
-    <img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/polly.gif?raw=true" width="320" height="180" style="border-radius:40px;" />
-  </a>
-<h3>Tech stack</h3>
-  | JavaScript | HTML | CSS | Object-oriented programming (OOP)
-
+<p align="center">
+  <a href="https://kaloyanivanov.de"><img src="https://img.shields.io/badge/Portfolio-kaloyanivanov.de-8D4CF6?style=for-the-badge&labelColor=161D2E&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/KaloyanIvan0v"><img src="https://img.shields.io/badge/GitHub-KaloyanIvan0v-8FE34B?style=for-the-badge&labelColor=161D2E&logo=github&logoColor=white" /></a>
+</p>
