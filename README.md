@@ -43,11 +43,11 @@
 
 <br>
 
-<p align="center"><b>Join</b></p>
+<p align="center"><b>Coderr</b></p>
 
-<p align="center"><a href="https://join.kaloyanivanov.de/" target="_blank"><img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/main/join-gip.gif?raw=true" width="600" /></a></p>
+<p align="center"><a href="https://coderr.kaloyanivanov.de/" target="_blank"><img src="https://github.com/KaloyanIvan0v/kaloyanivan0v/blob/test/coderr.gif?raw=true" /></a></p>
 
-<p align="center">Kanban project management tool with task assignment, subtasks and contacts.</p>
+<p align="center">a freelancer platform build with Django</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-161D2E?style=flat-square&logo=javascript&logoColor=white" />
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Firebase-161D2E?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-<p align="center"><a href="https://join.kaloyanivanov.de/" target="_blank">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/KaloyanIvan0v/join" target="_blank">Code</a></p>
+<p align="center"><a href="https://coderr.kaloyanivanov.de/" target="_blank">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/KaloyanIvan0v/coderr-backend.git" target="_blank">Code</a></p>
 
 <br>
 <br>
