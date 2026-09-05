@@ -68,10 +68,9 @@
 <p align="center">2D jump-and-run game built with object-oriented JavaScript.</p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-161D2E?style=flat-square&logo=javascript&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-161D2E?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-161D2E?style=flat-square&logo=css3&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Object-oriented_programming" target="_blank"><img src="https://img.shields.io/badge/OOP-161D2E?style=flat-square" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-161D2E?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-161D2E?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-161D2E?style=for-the-badge&logo=javascript&logoColor=white" /></a>
 </p>
 
 <p align="center"><a href="https://pollys-adventure.kaloyanivanov.de/" target="_blank">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/KaloyanIvan0v/pollys-adventure" target="_blank">Code</a></p>
